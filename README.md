@@ -1,11 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
-</p>
-
-<p align="center">
+  <h3>Front-end Developer</h3><br/>
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -18,20 +14,54 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 
 <br>
 
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
+<img alt="About page picture" src=".github/aboutPage.png" width="100%">
 
-## 🚀 Tecnologias
+## Project
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed to showcase my skills and competencies. So that other people can get to know me and my journey to get where I am.
 
-- HTML e CSS
+Contains my social networks to learn about myself and my projects, containing my professional experiences and academic studies.
+
+### Tecnologies
+
+This project was built with three main technologies:
+
+- HTML
+- CSS
 - JavaScript
-- Git e Github
-- Figma
 
-## 💻 Projeto
+Versions with:
+
+- Git
+- Github
+
+### Languages
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- PHP
+- Java
+- C#
+
+### Frameworks
+
+- Bootstrap
+- JQuery
+- ReactJS
+- React Native / Expo
+- NestJS
+- Laravel
+
+### Education
+
+- HighSchool - Profª Ana Cândida Barros Molina (2014 - 2016)
+- English - Hugle Education (2017 - 2020)
+- System Development - SENAI (2019 - 2021)
+- Analysis and Systems Development
+
+## Projeto
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
@@ -39,7 +69,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
-## 🔖 Layout
+## Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
@@ -49,4 +79,16 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+## References
+
+- [Ion-icons](https://ionic.io/ionicons) by Ionic.
+
+- [Typed.js](https://github.com/mattboldt/typed.js/) library by mattboldt.
+
+- [Flipper](https://www.treinaweb.com.br/blog/css-aprenda-a-criar-o-efeito-de-flip-cards) tip to create your custom flipper.
+
+- [Accordion](https://codepen.io/raubaca/pen/PZzpVe) tip to create your accordion animation.
+
+- [Float animation](https://www.youtube.com/watch?v=BTQHO-yP-CA) simple float animation with keyframes.
+
+- [Discover](https://www.rocketseat.com.br/discover) project from Rocketseat. Join their discord comunity [here.](https://discord.gg/rocketseat)
