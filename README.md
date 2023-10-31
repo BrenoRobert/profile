@@ -1,7 +1,8 @@
 <h1 align="center"> DevLinks </h1>
 
+<h3 align="center">Front-end Developer</h3>
+
 <p align="center">
-  <!-- <h3>Front-end Developer</h3><br/> -->
   <a href="#project">Project</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#tecnologies">Tecnologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#languages">Languages</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -66,7 +67,7 @@ Versions with:
 
 ## License
 
-Esse projeto está sob a licença MIT.
+This project is under the MIT license.
 
 ---
 
