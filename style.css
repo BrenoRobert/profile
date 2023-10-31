@@ -273,7 +273,7 @@ div a {
 }
 
 /* media queries */
-@media (min-width: 700px) {
+@media (min-width: 992px) {
   body {
     height: 100vh;
   }
