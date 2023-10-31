@@ -1,10 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-  <h3>Front-end Developer</h3><br/>
-</p>
-
-<p align="center">
+  <h3 align="center">Front-end Developer</h3><br/>
   <a href="#project">Project</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#tecnologies">Tecnologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#languages">Languages</a>&nbsp;&nbsp;|&nbsp;&nbsp;
