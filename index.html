@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.0.7/css/all.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DevLinks</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="container">
+      <input type="checkbox" id="switchProfile" />
+
+      <label id="profile" for="switchProfile">
+        <div class="flipper">
+          <div class="front">
+            <img
+              src="./assets/avatar.png"
+              alt="Foto de Mayk Brito sorrindo, usando óculos e camisa preta, barba e fundo amarelo."
+            />
+            <h1>Breno Robert</h1>
+            <hr width="100%" />
+            <p>
+              Desenvolvedor Front-end <br />
+              React | NestJS | IA | JavaScript | TypeScript
+            </p>
+
+            <div id="social-links">
+              <a
+                href="https://www.linkedin.com/in/breno-robert-de-oliveira-ribeiro-a77a3122a/"
+                target="_blank"
+              >
+                <ion-icon name="logo-linkedin"></ion-icon>
+              </a>
+
+              <a href="https://github.com/BrenoRobert" target="_blank">
+                <ion-icon name="logo-github"></ion-icon>
+              </a>
+
+              <a href="https://instagram.com/brenou.robert" target="_blank">
+                <ion-icon name="logo-instagram"></ion-icon>
+              </a>
+
+              <a href="https://wa.me/5512992013082" target="_blank">
+                <ion-icon name="logo-whatsapp"></ion-icon>
+              </a>
+            </div>
+          </div>
+          <div class="back">
+            <p>
+              Me chamo Breno Robert de Oliveira Ribeiro, tenho 22 anos e possuo
+              atuação profissional de dois anos. Meu percurso começou quando fui
+              contratado pela Embraer em agosto de 2019 como Jovem Aprendiz, que
+              se encerrou no inicio de Março de 2021.
+              <br />
+              <br />
+              Desde lá atuei em outras duas empresas, adquirindo mais
+              conhecimentos e experiência.
+              <br />
+              <br />
+              Possuo o Inglês avançado.
+              <br />
+              <br />
+              Conhecimentos em tecnologias como ReactJS, React Native, NestJS,
+              Expo CLI, GitHub, Git, Web Responsivo, HTML, CSS, Bootstrap,
+              JavaScript, TypeScript, Figma, Java, PHP, Laravel, JQuery.
+            </p>
+          </div>
+        </div>
+      </label>
+
+      <div id="panel">
+        <div id="panel-header">
+          <ion-icon name="logo-ionic"></ion-icon>
+          <div>
+            <p>MY-PROFILE</p>
+          </div>
+          <ion-icon name="chevron-down-outline"></ion-icon>
+          <ion-icon name="close-outline"></ion-icon>
+        </div>
+        <div id="panel-editor">
+          <aside id="panel-sidebar">
+            <ul>
+              <li>
+                <input
+                  type="radio"
+                  name="profilePaste"
+                  id="profile-option"
+                  onchange="typedProfile(this)"
+                />
+                <label for="profile-option">
+                  <ion-icon name="chevron-forward-outline"></ion-icon>
+                  Perfil
+                </label>
+                <div><p>Sobre mim</p></div>
+              </li>
+              <li>
+                <input
+                  type="radio"
+                  name="profilePaste"
+                  id="education-option"
+                  onchange="typedProfile(this)"
+                />
+                <label for="education-option">
+                  <ion-icon name="chevron-forward-outline"></ion-icon>
+                  Educação
+                </label>
+                <div><p>Formação Acadêmica</p></div>
+              </li>
+              <li>
+                <input
+                  type="radio"
+                  name="profilePaste"
+                  id="professional-option"
+                  onchange="typedProfile(this)"
+                />
+                <label for="professional-option">
+                  <ion-icon name="chevron-forward-outline"></ion-icon>
+                  Experiência
+                </label>
+                <div><p>Profissional</p></div>
+              </li>
+            </ul>
+          </aside>
+
+          <div id="panel-content">
+            <div><p></p></div>
+            <div><span id="auto-typing"></span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"
+    ></script>
+    <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
+
+<!-- 
+  profile fliper:
+    https://www.treinaweb.com.br/blog/css-aprenda-a-criar-o-efeito-de-flip-cards
+
+  float animation:
+    https://www.youtube.com/watch?v=BTQHO-yP-CA 
+    
+  accordion animation:
+    https://codepen.io/raubaca/pen/PZzpVe
+
+  typed animation:
+    https://github.com/mattboldt/typed.js/
+-->
