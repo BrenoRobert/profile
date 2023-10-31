@@ -1,14 +1,14 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-  <h3>Front-end Developer</h3><br/>
-  <a href="#-project">Projeto</a>&nbsp;&nbsp;|&nbsp;&nbsp;;
-  <a href="#-tecnologies">Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-languages">Languages</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-frameworks">Frameworks</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-education">Education</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-license">License</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#-references">References</a>
+  <!-- <h3>Front-end Developer</h3><br/> -->
+  <a href="#project">Project</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#tecnologies">Tecnologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#languages">Languages</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#frameworks">Frameworks</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#education">Education</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#license">License</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#references">References</a>
 </p>
 
 <p align="center">
