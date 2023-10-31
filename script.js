@@ -134,7 +134,7 @@ function getDescription(option) {
           <br>
           &nbsp; &nbsp; Março 2022 – Fevereiro 2023
           <br>
-          &nbsp; &nbsp;   • Desenvolvimento de componentes, correção de bugs, teste e revisões de códigos em React Native, ReactJS e NestJS (básico).
+          &nbsp; &nbsp; • Desenvolvimento de componentes, correção de bugs, teste e revisões de códigos em React Native, ReactJS e NestJS (básico).
         </p>
         `
       break
