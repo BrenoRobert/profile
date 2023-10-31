@@ -2,10 +2,13 @@
 
 <p align="center">
   <h3>Front-end Developer</h3><br/>
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-project">Projeto</a>&nbsp;&nbsp;|&nbsp;&nbsp;;
+  <a href="#-tecnologies">Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-languages">Languages</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-frameworks">Frameworks</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-education">Education</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-license">License</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-references">References</a>
 </p>
 
 <p align="center">
@@ -14,7 +17,7 @@
 
 <br>
 
-<img alt="About page picture" src=".github/aboutPage.png" width="100%">
+<img alt="About page picture" src=".github/about-page.png" width="100%">
 
 ## Project
 
@@ -61,19 +64,7 @@ Versions with:
 - System Development - SENAI (2019 - 2021)
 - Analysis and Systems Development
 
-## Projeto
-
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
-
-## Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
+## License
 
 Esse projeto está sob a licença MIT.
 
@@ -91,4 +82,4 @@ Esse projeto está sob a licença MIT.
 
 - [Float animation](https://www.youtube.com/watch?v=BTQHO-yP-CA) simple float animation with keyframes.
 
-- [Discover](https://www.rocketseat.com.br/discover) project from Rocketseat. Join their discord comunity [here.](https://discord.gg/rocketseat)
+- [Discover](https://www.rocketseat.com.br/discover) project from Rocketseat.
