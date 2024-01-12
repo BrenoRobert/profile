@@ -47,7 +47,7 @@ function getDescription(option) {
         <div>
           <span>Para me conhecer melhor,&nbsp;</span>
           <a
-            href="./assets/CurriculumBreno.pdf"
+            href="./assets/Curriculum Breno.pdf"
             download
             class="cv-download"
             >baixe o currículo</a
