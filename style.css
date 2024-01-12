@@ -15,7 +15,6 @@ body {
     rgba(52, 28, 111, 1) 40%,
     rgba(8, 0, 27, 1) 100%
   );
-  /* height: 100vh; */
   width: 100vw;
   display: flex;
   flex-direction: row;
@@ -66,6 +65,7 @@ body {
   border-radius: 50%;
   border: solid 3px white;
   overflow: hidden;
+  margin-top: 12px;
 }
 
 #profile p {
@@ -125,7 +125,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 8px;
+  padding: 6px;
   font-size: 20px;
 
   transition: background 0.2s;
@@ -133,7 +133,7 @@ body {
 }
 
 #social-links a:hover {
-  background: var(--highlight-color);
+  background: rgba(255, 255, 255, 0.2);
 }
 
 /* panel */
@@ -254,7 +254,7 @@ span,
 div a {
   font-size: small;
   text-align: justify;
-  margin-bottom: 70px;
+  margin-bottom: 50px;
   margin-top: 0px;
 }
 
@@ -293,12 +293,17 @@ div a {
   }
 
   #profile img {
-    width: 130px;
+    width: 124px;
     height: 130px;
+    margin-top: 0;
   }
 
   #profile h1 {
     font-size: 1.25rem;
+  }
+
+  #social-links a {
+    padding: 8px;
   }
 
   .front,
@@ -361,7 +366,7 @@ div a {
   #panel-content div p,
   span,
   div a {
-    margin-bottom: 12px;
+    margin-bottom: 16px;
   }
 }
 

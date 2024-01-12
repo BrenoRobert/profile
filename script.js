@@ -68,8 +68,8 @@ function getDescription(option) {
           &nbsp; &nbsp; Técnico Em Desenvolvimento De Sistemas
           <br>
           <br>
-          - Ensino Superior _ Universidade Paulista - Unip
-          Agosto 2021 – Atualmente
+          - Graduação _ Universidade Paulista - Unip
+          Agosto 2021 – Dezembro 2023
           <br>
           &nbsp; &nbsp; Análise e Desenvolvimento De Sistemas
         </p>
@@ -107,12 +107,16 @@ function getDescription(option) {
           <br>
           - Ruby on Rails 5.x – Do início ao fim _ Udemy - 2023
           <br>
-          IA - para Devs _ Rocketseat - 2023
+          - IA para Devs _ Rocketseat - 2023
           <br>
           - NestJS do Zero com TypeORM, Mongoose, Prisma e Swagger - 2023
           <br>
           - NLW IA _ Rocketseat – 2023
-          Curso Online de Java_ Rocketseat - 2023
+          <br>
+          - Curso Online de Java _ Rocketseat - 2023
+          <br>
+          - React.Js e Next.Js (nível intermediário e avançado) _ Udemy – 2024
+          <br>
         </p>`
       break
     case "professional-option":
@@ -134,7 +138,21 @@ function getDescription(option) {
           <br>
           &nbsp; &nbsp; Março 2022 – Fevereiro 2023
           <br>
-          &nbsp; &nbsp; • Desenvolvimento de componentes, correção de bugs, teste e revisões de códigos em React Native, ReactJS e NestJS (básico).
+          &nbsp; &nbsp; • Desenvolvimento de componentes, correção de bugs, teste e revisões de códigos em React Native, ReactJS e NestJS.
+          <br>
+          <br>
+          - Águia Shoes
+          <br>
+          &nbsp; &nbsp; Outubro 2023 e Dezembro 2023
+          <br>
+          &nbsp; &nbsp; • Reposição de estoque, etiquetação, organização do estoque, recebimento de carga e descarga.
+          <br>
+          <br>
+          - 2IOT
+          <br>
+          &nbsp; &nbsp; Novembro 2023 - Dezembro 2023
+          <br>
+          &nbsp; &nbsp; • Suporte de testes e verificação de rastreadores, desenho de diagrama de redes, suporte técnico na impressora.
         </p>
         `
       break
