@@ -37,7 +37,7 @@ function getDescription(option) {
           entregar o meu melhor serviço, sendo sempre dedicado e pontual.
         </p>
         <p class="strong">Conhecimento técnico de tecnologias</p>
-        <p>Java, PHP, Laravel, JQuery, ChatGPT, OpenAI.</p>
+        <p>Java, PHP, Laravel, JQuery, Python, Pandas, Power BI, ChatGPT, OpenAI.</p>
         <p class="strong">Conhecimento sólidos de tecnologias</p>
         <p>
           ReactJS, React Native, NestJS, Expo CLI, GitHub, Git, Web
@@ -138,7 +138,7 @@ function getDescription(option) {
           <br>
           &nbsp; &nbsp; Março 2022 – Fevereiro 2023
           <br>
-          &nbsp; &nbsp; • Desenvolvimento de componentes, correção de bugs, teste e revisões de códigos em React Native, ReactJS e NestJS.
+          &nbsp; &nbsp; • Desenvolvimento de componentes, correção de bugs, teste e revisões de códigos em React Native, Expo, ReactJS e NestJS.
           <br>
           <br>
           - Águia Shoes
