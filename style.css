@@ -106,6 +106,10 @@ body {
   overflow-y: auto;
 }
 
+.back p {
+  padding-top: 100px;
+}
+
 #switchProfile {
   display: none;
 }
@@ -312,7 +316,6 @@ div a {
   }
 
   .back {
-    overflow-y: hidden;
     font-size: medium;
   }
 
