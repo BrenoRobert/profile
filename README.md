@@ -37,7 +37,7 @@ This project was built with three main technologies:
 Versions with:
 
 - Git
-- Github
+- GitHub
 
 ### Languages
 
@@ -63,7 +63,7 @@ Versions with:
 - HighSchool - Profª Ana Cândida Barros Molina (2014 - 2016)
 - English - Hugle Education (2017 - 2020)
 - System Development - SENAI (2019 - 2021)
-- Analysis and Systems Development
+- Analysis and Systems Development - UNIP (2021 - 2023)
 
 ## License
 
